@@ -1,0 +1,4 @@
+ interface ArticleScoreBehaviour {
+    int articleScore();
+
+}

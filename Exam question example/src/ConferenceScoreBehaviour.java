@@ -1,0 +1,4 @@
+ interface ConferenceScoreBehaviour {
+    int conferenceScore();
+}
+
